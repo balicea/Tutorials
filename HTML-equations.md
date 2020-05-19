@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="500" height="500" src="example.png"><BR>
+  <img width="50" height="50" src="example.png"><BR>
   This text is the image legend <i>with HTML specification</i>
 </p>
 
