@@ -11,11 +11,7 @@
 
 HTML element will center the image.  
 
-$$ \frac{dy}{da} = 
-\begin{cases}
-0, & \text{a < $\alpha$}\\
-ky,& \text{$\alpha$ < a < $\beta$}\\
-0, & \text{a > $\beta$}\\
+$$ {F_n} = \delta{T_n}
 \end{cases}
 \tag{1}
 $$
