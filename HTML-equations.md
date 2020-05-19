@@ -12,6 +12,5 @@
 HTML element will center the image.  
 
 $$ {F_n} = \delta{T_n}
-\end{cases}
 \tag{1}
 $$
