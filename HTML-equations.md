@@ -9,7 +9,7 @@
   This text is the image legend <i>with HTML specification</i>
 </p>
 
-HTML element will center the image.  
+HTML element will center the image. LaTeX will automatically center the image.
 
 $$ {F(t)} = \Delta{T_n}
 \tag{1}
