@@ -11,6 +11,6 @@
 
 HTML element will center the image.  
 
-$$ {F_n} = \delta{T_n}
+$$ {F(t)} = \Delta{T_n}
 \tag{1}
 $$
