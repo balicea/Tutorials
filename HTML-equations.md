@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="50" height="50" src="example.png"><BR>
+  <img width="275" height="206" src="https://github.com/balicea/Tutorials/blob/master/Tim%20Berners-Lee.png"><BR>
   This text is the image legend <i>with HTML specification</i>
 </p>
 
